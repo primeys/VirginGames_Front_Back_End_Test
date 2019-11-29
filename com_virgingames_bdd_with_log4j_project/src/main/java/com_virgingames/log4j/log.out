@@ -1,0 +1,18 @@
+2019-11-29 10:11:104 INFO  HomePage :24 - homepage welcome text
+2019-11-29 10:11:208 INFO  HomePage :30 - click on Login link
+2019-11-29 10:11:979 INFO  LoginPage :29 - enter username
+2019-11-29 10:11:235 INFO  LoginPage :34 - enter password
+2019-11-29 10:11:435 INFO  LoginPage :39 - click on loginBtn
+2019-11-29 10:11:603 INFO  LoginPage :44 - Error Message verification after login failed
+2019-11-29 10:11:826 INFO  HomePage :24 - homepage welcome text
+2019-11-29 10:11:887 INFO  HomePage :30 - click on Login link
+2019-11-29 10:11:775 INFO  LoginPage :29 - enter username
+2019-11-29 10:11:946 INFO  LoginPage :34 - enter password
+2019-11-29 10:11:150 INFO  LoginPage :39 - click on loginBtn
+2019-11-29 10:11:333 INFO  LoginPage :44 - Error Message verification after login failed
+2019-11-29 10:11:270 INFO  HomePage :24 - homepage welcome text
+2019-11-29 10:11:341 INFO  HomePage :30 - click on Login link
+2019-11-29 10:11:232 INFO  LoginPage :29 - enter username
+2019-11-29 10:11:407 INFO  LoginPage :34 - enter password
+2019-11-29 10:11:594 INFO  LoginPage :39 - click on loginBtn
+2019-11-29 10:11:755 INFO  LoginPage :44 - Error Message verification after login failed
